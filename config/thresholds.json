@@ -1,0 +1,7 @@
+{
+    "enrollment_change_pct_threshold": 5.0,
+    "market_share_change_pct_threshold": 2.0,
+    "min_enrollment_for_relevance": 500,
+    "top_n_movers": 25,
+    "carriers_of_interest": []
+}

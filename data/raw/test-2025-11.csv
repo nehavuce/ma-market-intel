@@ -1,0 +1,397 @@
+Contract Number,Plan ID,Organization Name,Organization Marketing Name,Plan Type,Parent Organization,State,County,FIPS State County Code,Enrollment
+H0001,100,UnitedHealthcare,UnitedHealthcare,HMO,UnitedHealth Group,CA,Los Angeles,06037,682
+H0001,101,UnitedHealthcare,UnitedHealthcare,PFFS,UnitedHealth Group,CA,Los Angeles,06037,1925
+H0001,102,UnitedHealthcare,UnitedHealthcare,PPO,UnitedHealth Group,CA,Los Angeles,06037,1331
+H0001,100,UnitedHealthcare,UnitedHealthcare,HMO,UnitedHealth Group,CA,San Diego,06073,4356
+H0001,101,UnitedHealthcare,UnitedHealthcare,Local PPO,UnitedHealth Group,CA,San Diego,06073,1034
+H0001,102,UnitedHealthcare,UnitedHealthcare,Local PPO,UnitedHealth Group,CA,San Diego,06073,2926
+H0001,100,UnitedHealthcare,UnitedHealthcare,HMO,UnitedHealth Group,FL,Miami-Dade,12086,1067
+H0001,100,UnitedHealthcare,UnitedHealthcare,PPO,UnitedHealth Group,FL,Broward,12011,3388
+H0001,100,UnitedHealthcare,UnitedHealthcare,HMO,UnitedHealth Group,FL,Palm Beach,12099,3707
+H0001,101,UnitedHealthcare,UnitedHealthcare,PPO,UnitedHealth Group,FL,Palm Beach,12099,4576
+H0001,102,UnitedHealthcare,UnitedHealthcare,Local PPO,UnitedHealth Group,FL,Palm Beach,12099,2904
+H0001,100,UnitedHealthcare,UnitedHealthcare,HMO-POS,UnitedHealth Group,TX,Harris,48201,3861
+H0001,100,UnitedHealthcare,UnitedHealthcare,HMO,UnitedHealth Group,TX,Dallas,48113,4818
+H0001,101,UnitedHealthcare,UnitedHealthcare,PPO,UnitedHealth Group,TX,Dallas,48113,4477
+H0001,100,UnitedHealthcare,UnitedHealthcare,PFFS,UnitedHealth Group,AZ,Maricopa,04013,2112
+H0001,101,UnitedHealthcare,UnitedHealthcare,PPO,UnitedHealth Group,AZ,Maricopa,04013,1760
+H0001,100,UnitedHealthcare,UnitedHealthcare,HMO,UnitedHealth Group,NV,Clark,32003,1067
+H0001,101,UnitedHealthcare,UnitedHealthcare,HMO-POS,UnitedHealth Group,NV,Clark,32003,1089
+H0001,100,UnitedHealthcare,UnitedHealthcare,PFFS,UnitedHealth Group,NY,New York,36061,3949
+H0001,101,UnitedHealthcare,UnitedHealthcare,PFFS,UnitedHealth Group,NY,New York,36061,5093
+H0001,100,UnitedHealthcare,UnitedHealthcare,HMO-POS,UnitedHealth Group,NY,Kings,36047,3564
+H0001,100,UnitedHealthcare,UnitedHealthcare,HMO-POS,UnitedHealth Group,IL,Cook,17031,990
+H0001,100,UnitedHealthcare,UnitedHealthcare,PFFS,UnitedHealth Group,MI,Wayne,26163,5214
+H0001,101,UnitedHealthcare,UnitedHealthcare,Local PPO,UnitedHealth Group,MI,Wayne,26163,5401
+H0001,102,UnitedHealthcare,UnitedHealthcare,PFFS,UnitedHealth Group,MI,Wayne,26163,3795
+H0001,100,UnitedHealthcare,UnitedHealthcare,HMO,UnitedHealth Group,OH,Cuyahoga,39035,803
+H0001,100,UnitedHealthcare,UnitedHealthcare,PPO,UnitedHealth Group,PA,Philadelphia,42101,4895
+H0001,101,UnitedHealthcare,UnitedHealthcare,PFFS,UnitedHealth Group,PA,Philadelphia,42101,990
+H0001,102,UnitedHealthcare,UnitedHealthcare,PPO,UnitedHealth Group,PA,Philadelphia,42101,5423
+H0001,100,UnitedHealthcare,UnitedHealthcare,HMO-POS,UnitedHealth Group,GA,Fulton,13121,2112
+H0001,100,UnitedHealthcare,UnitedHealthcare,PFFS,UnitedHealth Group,NC,Mecklenburg,37119,1463
+H0001,101,UnitedHealthcare,UnitedHealthcare,PFFS,UnitedHealth Group,NC,Mecklenburg,37119,2541
+H0001,100,UnitedHealthcare,UnitedHealthcare,PFFS,UnitedHealth Group,TN,Shelby,47157,4499
+H0001,100,UnitedHealthcare,UnitedHealthcare,HMO,UnitedHealth Group,MO,St. Louis,29189,3971
+H0001,101,UnitedHealthcare,UnitedHealthcare,PPO,UnitedHealth Group,MO,St. Louis,29189,3553
+H0001,102,UnitedHealthcare,UnitedHealthcare,PPO,UnitedHealth Group,MO,St. Louis,29189,1463
+H0001,100,UnitedHealthcare,UnitedHealthcare,HMO-POS,UnitedHealth Group,WA,King,53033,2068
+H0001,101,UnitedHealthcare,UnitedHealthcare,Local PPO,UnitedHealth Group,WA,King,53033,1782
+H0002,100,Humana,Humana,PFFS,Humana Inc,CA,Los Angeles,06037,4810
+H0002,101,Humana,Humana,HMO,Humana Inc,CA,Los Angeles,06037,1670
+H0002,102,Humana,Humana,HMO,Humana Inc,CA,Los Angeles,06037,4620
+H0002,100,Humana,Humana,HMO-POS,Humana Inc,CA,San Diego,06073,1870
+H0002,101,Humana,Humana,HMO,Humana Inc,CA,San Diego,06073,1580
+H0002,100,Humana,Humana,PFFS,Humana Inc,FL,Miami-Dade,12086,1580
+H0002,101,Humana,Humana,HMO-POS,Humana Inc,FL,Miami-Dade,12086,2520
+H0002,102,Humana,Humana,HMO-POS,Humana Inc,FL,Miami-Dade,12086,1230
+H0002,100,Humana,Humana,PPO,Humana Inc,FL,Broward,12011,1760
+H0002,101,Humana,Humana,Local PPO,Humana Inc,FL,Broward,12011,3250
+H0002,100,Humana,Humana,Local PPO,Humana Inc,FL,Palm Beach,12099,2690
+H0002,101,Humana,Humana,Local PPO,Humana Inc,FL,Palm Beach,12099,2540
+H0002,100,Humana,Humana,PPO,Humana Inc,TX,Harris,48201,1200
+H0002,101,Humana,Humana,Local PPO,Humana Inc,TX,Harris,48201,3020
+H0002,100,Humana,Humana,HMO,Humana Inc,TX,Dallas,48113,4900
+H0002,100,Humana,Humana,PPO,Humana Inc,AZ,Maricopa,04013,3710
+H0002,100,Humana,Humana,HMO-POS,Humana Inc,NV,Clark,32003,3550
+H0002,100,Humana,Humana,HMO-POS,Humana Inc,NY,New York,36061,2450
+H0002,100,Humana,Humana,HMO-POS,Humana Inc,NY,Kings,36047,3200
+H0002,101,Humana,Humana,PFFS,Humana Inc,NY,Kings,36047,3330
+H0002,102,Humana,Humana,HMO,Humana Inc,NY,Kings,36047,3980
+H0002,100,Humana,Humana,HMO,Humana Inc,IL,Cook,17031,3990
+H0002,101,Humana,Humana,Local PPO,Humana Inc,IL,Cook,17031,4340
+H0002,102,Humana,Humana,PFFS,Humana Inc,IL,Cook,17031,4430
+H0002,100,Humana,Humana,PFFS,Humana Inc,MI,Wayne,26163,1070
+H0002,101,Humana,Humana,PFFS,Humana Inc,MI,Wayne,26163,2720
+H0002,102,Humana,Humana,PPO,Humana Inc,MI,Wayne,26163,2820
+H0002,100,Humana,Humana,PFFS,Humana Inc,OH,Cuyahoga,39035,3060
+H0002,100,Humana,Humana,Local PPO,Humana Inc,PA,Philadelphia,42101,1040
+H0002,100,Humana,Humana,PFFS,Humana Inc,GA,Fulton,13121,4800
+H0002,101,Humana,Humana,Local PPO,Humana Inc,GA,Fulton,13121,3610
+H0002,102,Humana,Humana,PPO,Humana Inc,GA,Fulton,13121,1280
+H0002,100,Humana,Humana,PPO,Humana Inc,NC,Mecklenburg,37119,3260
+H0002,101,Humana,Humana,Local PPO,Humana Inc,NC,Mecklenburg,37119,500
+H0002,100,Humana,Humana,PFFS,Humana Inc,TN,Shelby,47157,3000
+H0002,101,Humana,Humana,HMO,Humana Inc,TN,Shelby,47157,1070
+H0002,102,Humana,Humana,PFFS,Humana Inc,TN,Shelby,47157,4990
+H0002,100,Humana,Humana,PPO,Humana Inc,MO,St. Louis,29189,790
+H0002,101,Humana,Humana,PPO,Humana Inc,MO,St. Louis,29189,4990
+H0002,100,Humana,Humana,HMO,Humana Inc,WA,King,53033,930
+H0002,101,Humana,Humana,HMO-POS,Humana Inc,WA,King,53033,4670
+H0002,102,Humana,Humana,HMO,Humana Inc,WA,King,53033,4390
+H0003,100,CVS/Aetna,CVS/Aetna,PPO,CVS Health,CA,Los Angeles,06037,1035
+H0003,101,CVS/Aetna,CVS/Aetna,HMO-POS,CVS Health,CA,Los Angeles,06037,2979
+H0003,102,CVS/Aetna,CVS/Aetna,PPO,CVS Health,CA,Los Angeles,06037,1665
+H0003,100,CVS/Aetna,CVS/Aetna,Local PPO,CVS Health,CA,San Diego,06073,2394
+H0003,101,CVS/Aetna,CVS/Aetna,PPO,CVS Health,CA,San Diego,06073,2934
+H0003,102,CVS/Aetna,CVS/Aetna,PPO,CVS Health,CA,San Diego,06073,3735
+H0003,100,CVS/Aetna,CVS/Aetna,HMO-POS,CVS Health,FL,Miami-Dade,12086,3537
+H0003,101,CVS/Aetna,CVS/Aetna,PFFS,CVS Health,FL,Miami-Dade,12086,2466
+H0003,100,CVS/Aetna,CVS/Aetna,HMO-POS,CVS Health,FL,Broward,12011,999
+H0003,101,CVS/Aetna,CVS/Aetna,PPO,CVS Health,FL,Broward,12011,1485
+H0003,102,CVS/Aetna,CVS/Aetna,HMO,CVS Health,FL,Broward,12011,2007
+H0003,100,CVS/Aetna,CVS/Aetna,Local PPO,CVS Health,FL,Palm Beach,12099,2997
+H0003,100,CVS/Aetna,CVS/Aetna,Local PPO,CVS Health,TX,Harris,48201,1458
+H0003,100,CVS/Aetna,CVS/Aetna,HMO,CVS Health,TX,Dallas,48113,3708
+H0003,100,CVS/Aetna,CVS/Aetna,HMO,CVS Health,AZ,Maricopa,04013,1503
+H0003,101,CVS/Aetna,CVS/Aetna,HMO,CVS Health,AZ,Maricopa,04013,594
+H0003,102,CVS/Aetna,CVS/Aetna,PFFS,CVS Health,AZ,Maricopa,04013,774
+H0003,100,CVS/Aetna,CVS/Aetna,PPO,CVS Health,NV,Clark,32003,1728
+H0003,101,CVS/Aetna,CVS/Aetna,HMO-POS,CVS Health,NV,Clark,32003,1431
+H0003,102,CVS/Aetna,CVS/Aetna,Local PPO,CVS Health,NV,Clark,32003,1053
+H0003,100,CVS/Aetna,CVS/Aetna,Local PPO,CVS Health,NY,New York,36061,3105
+H0003,101,CVS/Aetna,CVS/Aetna,HMO-POS,CVS Health,NY,New York,36061,1566
+H0003,102,CVS/Aetna,CVS/Aetna,HMO-POS,CVS Health,NY,New York,36061,4167
+H0003,100,CVS/Aetna,CVS/Aetna,PPO,CVS Health,NY,Kings,36047,882
+H0003,101,CVS/Aetna,CVS/Aetna,HMO,CVS Health,NY,Kings,36047,3483
+H0003,100,CVS/Aetna,CVS/Aetna,PFFS,CVS Health,IL,Cook,17031,2394
+H0003,101,CVS/Aetna,CVS/Aetna,HMO-POS,CVS Health,IL,Cook,17031,2601
+H0003,100,CVS/Aetna,CVS/Aetna,HMO,CVS Health,MI,Wayne,26163,3546
+H0003,101,CVS/Aetna,CVS/Aetna,HMO,CVS Health,MI,Wayne,26163,729
+H0003,102,CVS/Aetna,CVS/Aetna,HMO-POS,CVS Health,MI,Wayne,26163,3798
+H0003,100,CVS/Aetna,CVS/Aetna,HMO,CVS Health,OH,Cuyahoga,39035,1593
+H0003,101,CVS/Aetna,CVS/Aetna,PPO,CVS Health,OH,Cuyahoga,39035,1323
+H0003,100,CVS/Aetna,CVS/Aetna,HMO-POS,CVS Health,PA,Philadelphia,42101,1089
+H0003,101,CVS/Aetna,CVS/Aetna,HMO-POS,CVS Health,PA,Philadelphia,42101,1287
+H0003,102,CVS/Aetna,CVS/Aetna,PFFS,CVS Health,PA,Philadelphia,42101,2574
+H0003,100,CVS/Aetna,CVS/Aetna,HMO,CVS Health,GA,Fulton,13121,2484
+H0003,100,CVS/Aetna,CVS/Aetna,HMO,CVS Health,NC,Mecklenburg,37119,675
+H0003,101,CVS/Aetna,CVS/Aetna,Local PPO,CVS Health,NC,Mecklenburg,37119,4302
+H0003,102,CVS/Aetna,CVS/Aetna,HMO,CVS Health,NC,Mecklenburg,37119,873
+H0003,100,CVS/Aetna,CVS/Aetna,PPO,CVS Health,TN,Shelby,47157,2322
+H0003,100,CVS/Aetna,CVS/Aetna,HMO-POS,CVS Health,MO,St. Louis,29189,1431
+H0003,101,CVS/Aetna,CVS/Aetna,HMO-POS,CVS Health,MO,St. Louis,29189,720
+H0003,100,CVS/Aetna,CVS/Aetna,HMO-POS,CVS Health,WA,King,53033,459
+H0004,100,Cigna Healthcare,Cigna Healthcare,PFFS,The Cigna Group,CA,Los Angeles,06037,3608
+H0004,101,Cigna Healthcare,Cigna Healthcare,HMO-POS,The Cigna Group,CA,Los Angeles,06037,1568
+H0004,100,Cigna Healthcare,Cigna Healthcare,Local PPO,The Cigna Group,CA,San Diego,06073,3104
+H0004,101,Cigna Healthcare,Cigna Healthcare,HMO-POS,The Cigna Group,CA,San Diego,06073,1032
+H0004,100,Cigna Healthcare,Cigna Healthcare,PFFS,The Cigna Group,FL,Miami-Dade,12086,1288
+H0004,100,Cigna Healthcare,Cigna Healthcare,Local PPO,The Cigna Group,FL,Broward,12011,3408
+H0004,100,Cigna Healthcare,Cigna Healthcare,HMO,The Cigna Group,FL,Palm Beach,12099,3456
+H0004,101,Cigna Healthcare,Cigna Healthcare,PFFS,The Cigna Group,FL,Palm Beach,12099,632
+H0004,102,Cigna Healthcare,Cigna Healthcare,HMO,The Cigna Group,FL,Palm Beach,12099,2792
+H0004,100,Cigna Healthcare,Cigna Healthcare,Local PPO,The Cigna Group,TX,Harris,48201,3888
+H0004,101,Cigna Healthcare,Cigna Healthcare,Local PPO,The Cigna Group,TX,Harris,48201,1040
+H0004,100,Cigna Healthcare,Cigna Healthcare,Local PPO,The Cigna Group,TX,Dallas,48113,728
+H0004,100,Cigna Healthcare,Cigna Healthcare,HMO,The Cigna Group,AZ,Maricopa,04013,2832
+H0004,100,Cigna Healthcare,Cigna Healthcare,PPO,The Cigna Group,NV,Clark,32003,2048
+H0004,100,Cigna Healthcare,Cigna Healthcare,Local PPO,The Cigna Group,NY,New York,36061,1408
+H0004,100,Cigna Healthcare,Cigna Healthcare,Local PPO,The Cigna Group,NY,Kings,36047,560
+H0004,101,Cigna Healthcare,Cigna Healthcare,Local PPO,The Cigna Group,NY,Kings,36047,728
+H0004,102,Cigna Healthcare,Cigna Healthcare,HMO-POS,The Cigna Group,NY,Kings,36047,3088
+H0004,100,Cigna Healthcare,Cigna Healthcare,Local PPO,The Cigna Group,IL,Cook,17031,2536
+H0004,101,Cigna Healthcare,Cigna Healthcare,PFFS,The Cigna Group,IL,Cook,17031,1464
+H0004,102,Cigna Healthcare,Cigna Healthcare,PPO,The Cigna Group,IL,Cook,17031,3136
+H0004,100,Cigna Healthcare,Cigna Healthcare,PFFS,The Cigna Group,MI,Wayne,26163,1376
+H0004,101,Cigna Healthcare,Cigna Healthcare,PFFS,The Cigna Group,MI,Wayne,26163,2016
+H0004,102,Cigna Healthcare,Cigna Healthcare,PPO,The Cigna Group,MI,Wayne,26163,3144
+H0004,100,Cigna Healthcare,Cigna Healthcare,PFFS,The Cigna Group,OH,Cuyahoga,39035,2272
+H0004,101,Cigna Healthcare,Cigna Healthcare,PFFS,The Cigna Group,OH,Cuyahoga,39035,3472
+H0004,102,Cigna Healthcare,Cigna Healthcare,HMO,The Cigna Group,OH,Cuyahoga,39035,432
+H0004,100,Cigna Healthcare,Cigna Healthcare,Local PPO,The Cigna Group,PA,Philadelphia,42101,2704
+H0004,101,Cigna Healthcare,Cigna Healthcare,HMO,The Cigna Group,PA,Philadelphia,42101,696
+H0004,100,Cigna Healthcare,Cigna Healthcare,PPO,The Cigna Group,GA,Fulton,13121,2472
+H0004,101,Cigna Healthcare,Cigna Healthcare,PFFS,The Cigna Group,GA,Fulton,13121,936
+H0004,102,Cigna Healthcare,Cigna Healthcare,PFFS,The Cigna Group,GA,Fulton,13121,680
+H0004,100,Cigna Healthcare,Cigna Healthcare,PFFS,The Cigna Group,NC,Mecklenburg,37119,1560
+H0004,100,Cigna Healthcare,Cigna Healthcare,HMO-POS,The Cigna Group,TN,Shelby,47157,3808
+H0004,100,Cigna Healthcare,Cigna Healthcare,PFFS,The Cigna Group,MO,St. Louis,29189,2904
+H0004,101,Cigna Healthcare,Cigna Healthcare,Local PPO,The Cigna Group,MO,St. Louis,29189,432
+H0004,102,Cigna Healthcare,Cigna Healthcare,Local PPO,The Cigna Group,MO,St. Louis,29189,1624
+H0004,100,Cigna Healthcare,Cigna Healthcare,HMO,The Cigna Group,WA,King,53033,3992
+H0004,101,Cigna Healthcare,Cigna Healthcare,PPO,The Cigna Group,WA,King,53033,1480
+H0004,102,Cigna Healthcare,Cigna Healthcare,HMO,The Cigna Group,WA,King,53033,832
+H0005,100,Kaiser Permanente,Kaiser Permanente,Local PPO,Kaiser Foundation,CA,Los Angeles,06037,903
+H0005,101,Kaiser Permanente,Kaiser Permanente,PFFS,Kaiser Foundation,CA,Los Angeles,06037,1358
+H0005,102,Kaiser Permanente,Kaiser Permanente,Local PPO,Kaiser Foundation,CA,Los Angeles,06037,1099
+H0005,100,Kaiser Permanente,Kaiser Permanente,PFFS,Kaiser Foundation,CA,San Diego,06073,1078
+H0005,101,Kaiser Permanente,Kaiser Permanente,PFFS,Kaiser Foundation,CA,San Diego,06073,2156
+H0005,102,Kaiser Permanente,Kaiser Permanente,HMO-POS,Kaiser Foundation,CA,San Diego,06073,1246
+H0005,100,Kaiser Permanente,Kaiser Permanente,HMO,Kaiser Foundation,FL,Miami-Dade,12086,2618
+H0005,100,Kaiser Permanente,Kaiser Permanente,PFFS,Kaiser Foundation,FL,Broward,12011,504
+H0005,101,Kaiser Permanente,Kaiser Permanente,HMO,Kaiser Foundation,FL,Broward,12011,1540
+H0005,100,Kaiser Permanente,Kaiser Permanente,PFFS,Kaiser Foundation,FL,Palm Beach,12099,924
+H0005,100,Kaiser Permanente,Kaiser Permanente,HMO-POS,Kaiser Foundation,TX,Harris,48201,2324
+H0005,101,Kaiser Permanente,Kaiser Permanente,HMO-POS,Kaiser Foundation,TX,Harris,48201,2359
+H0005,102,Kaiser Permanente,Kaiser Permanente,HMO,Kaiser Foundation,TX,Harris,48201,749
+H0005,100,Kaiser Permanente,Kaiser Permanente,PPO,Kaiser Foundation,TX,Dallas,48113,2303
+H0005,100,Kaiser Permanente,Kaiser Permanente,PFFS,Kaiser Foundation,AZ,Maricopa,04013,2436
+H0005,100,Kaiser Permanente,Kaiser Permanente,PPO,Kaiser Foundation,NV,Clark,32003,1890
+H0005,101,Kaiser Permanente,Kaiser Permanente,PPO,Kaiser Foundation,NV,Clark,32003,497
+H0005,102,Kaiser Permanente,Kaiser Permanente,PFFS,Kaiser Foundation,NV,Clark,32003,1652
+H0005,100,Kaiser Permanente,Kaiser Permanente,PFFS,Kaiser Foundation,NY,New York,36061,1099
+H0005,100,Kaiser Permanente,Kaiser Permanente,PPO,Kaiser Foundation,NY,Kings,36047,2737
+H0005,101,Kaiser Permanente,Kaiser Permanente,HMO,Kaiser Foundation,NY,Kings,36047,1617
+H0005,102,Kaiser Permanente,Kaiser Permanente,Local PPO,Kaiser Foundation,NY,Kings,36047,3479
+H0005,100,Kaiser Permanente,Kaiser Permanente,Local PPO,Kaiser Foundation,IL,Cook,17031,3031
+H0005,101,Kaiser Permanente,Kaiser Permanente,PPO,Kaiser Foundation,IL,Cook,17031,1197
+H0005,100,Kaiser Permanente,Kaiser Permanente,PPO,Kaiser Foundation,MI,Wayne,26163,1827
+H0005,100,Kaiser Permanente,Kaiser Permanente,PPO,Kaiser Foundation,OH,Cuyahoga,39035,2989
+H0005,100,Kaiser Permanente,Kaiser Permanente,HMO-POS,Kaiser Foundation,PA,Philadelphia,42101,3220
+H0005,101,Kaiser Permanente,Kaiser Permanente,PPO,Kaiser Foundation,PA,Philadelphia,42101,1302
+H0005,100,Kaiser Permanente,Kaiser Permanente,HMO,Kaiser Foundation,GA,Fulton,13121,1715
+H0005,100,Kaiser Permanente,Kaiser Permanente,HMO-POS,Kaiser Foundation,NC,Mecklenburg,37119,1141
+H0005,100,Kaiser Permanente,Kaiser Permanente,HMO-POS,Kaiser Foundation,TN,Shelby,47157,1603
+H0005,100,Kaiser Permanente,Kaiser Permanente,PPO,Kaiser Foundation,MO,St. Louis,29189,1148
+H0005,101,Kaiser Permanente,Kaiser Permanente,HMO,Kaiser Foundation,MO,St. Louis,29189,2709
+H0005,100,Kaiser Permanente,Kaiser Permanente,HMO-POS,Kaiser Foundation,WA,King,53033,1526
+H0006,100,Centene/WellCare,Centene/WellCare,HMO,Centene Corporation,CA,Los Angeles,06037,2670
+H0006,101,Centene/WellCare,Centene/WellCare,PFFS,Centene Corporation,CA,Los Angeles,06037,1374
+H0006,100,Centene/WellCare,Centene/WellCare,Local PPO,Centene Corporation,CA,San Diego,06073,1524
+H0006,101,Centene/WellCare,Centene/WellCare,Local PPO,Centene Corporation,CA,San Diego,06073,1314
+H0006,102,Centene/WellCare,Centene/WellCare,HMO,Centene Corporation,CA,San Diego,06073,654
+H0006,100,Centene/WellCare,Centene/WellCare,PPO,Centene Corporation,FL,Miami-Dade,12086,2082
+H0006,101,Centene/WellCare,Centene/WellCare,PFFS,Centene Corporation,FL,Miami-Dade,12086,414
+H0006,100,Centene/WellCare,Centene/WellCare,Local PPO,Centene Corporation,FL,Broward,12011,1632
+H0006,100,Centene/WellCare,Centene/WellCare,PFFS,Centene Corporation,FL,Palm Beach,12099,1638
+H0006,101,Centene/WellCare,Centene/WellCare,Local PPO,Centene Corporation,FL,Palm Beach,12099,1866
+H0006,100,Centene/WellCare,Centene/WellCare,HMO-POS,Centene Corporation,TX,Harris,48201,2070
+H0006,100,Centene/WellCare,Centene/WellCare,PFFS,Centene Corporation,TX,Dallas,48113,432
+H0006,100,Centene/WellCare,Centene/WellCare,HMO-POS,Centene Corporation,AZ,Maricopa,04013,300
+H0006,101,Centene/WellCare,Centene/WellCare,Local PPO,Centene Corporation,AZ,Maricopa,04013,2772
+H0006,102,Centene/WellCare,Centene/WellCare,Local PPO,Centene Corporation,AZ,Maricopa,04013,2406
+H0006,100,Centene/WellCare,Centene/WellCare,PPO,Centene Corporation,NV,Clark,32003,1416
+H0006,101,Centene/WellCare,Centene/WellCare,HMO-POS,Centene Corporation,NV,Clark,32003,510
+H0006,102,Centene/WellCare,Centene/WellCare,PFFS,Centene Corporation,NV,Clark,32003,2214
+H0006,100,Centene/WellCare,Centene/WellCare,HMO,Centene Corporation,NY,New York,36061,2508
+H0006,101,Centene/WellCare,Centene/WellCare,PFFS,Centene Corporation,NY,New York,36061,1854
+H0006,100,Centene/WellCare,Centene/WellCare,HMO-POS,Centene Corporation,NY,Kings,36047,1302
+H0006,101,Centene/WellCare,Centene/WellCare,HMO-POS,Centene Corporation,NY,Kings,36047,2436
+H0006,100,Centene/WellCare,Centene/WellCare,Local PPO,Centene Corporation,IL,Cook,17031,690
+H0006,101,Centene/WellCare,Centene/WellCare,PPO,Centene Corporation,IL,Cook,17031,1590
+H0006,100,Centene/WellCare,Centene/WellCare,HMO-POS,Centene Corporation,MI,Wayne,26163,2376
+H0006,101,Centene/WellCare,Centene/WellCare,PPO,Centene Corporation,MI,Wayne,26163,2190
+H0006,102,Centene/WellCare,Centene/WellCare,Local PPO,Centene Corporation,MI,Wayne,26163,1224
+H0006,100,Centene/WellCare,Centene/WellCare,Local PPO,Centene Corporation,OH,Cuyahoga,39035,2856
+H0006,101,Centene/WellCare,Centene/WellCare,HMO,Centene Corporation,OH,Cuyahoga,39035,1230
+H0006,100,Centene/WellCare,Centene/WellCare,PPO,Centene Corporation,PA,Philadelphia,42101,1620
+H0006,101,Centene/WellCare,Centene/WellCare,Local PPO,Centene Corporation,PA,Philadelphia,42101,2160
+H0006,100,Centene/WellCare,Centene/WellCare,PFFS,Centene Corporation,GA,Fulton,13121,1728
+H0006,101,Centene/WellCare,Centene/WellCare,HMO-POS,Centene Corporation,GA,Fulton,13121,1656
+H0006,102,Centene/WellCare,Centene/WellCare,PPO,Centene Corporation,GA,Fulton,13121,1866
+H0006,100,Centene/WellCare,Centene/WellCare,PPO,Centene Corporation,NC,Mecklenburg,37119,2322
+H0006,101,Centene/WellCare,Centene/WellCare,HMO,Centene Corporation,NC,Mecklenburg,37119,1170
+H0006,100,Centene/WellCare,Centene/WellCare,Local PPO,Centene Corporation,TN,Shelby,47157,1326
+H0006,101,Centene/WellCare,Centene/WellCare,HMO,Centene Corporation,TN,Shelby,47157,2814
+H0006,102,Centene/WellCare,Centene/WellCare,PPO,Centene Corporation,TN,Shelby,47157,2364
+H0006,100,Centene/WellCare,Centene/WellCare,PPO,Centene Corporation,MO,St. Louis,29189,2772
+H0006,101,Centene/WellCare,Centene/WellCare,PPO,Centene Corporation,MO,St. Louis,29189,750
+H0006,100,Centene/WellCare,Centene/WellCare,HMO,Centene Corporation,WA,King,53033,1050
+H0007,100,Molina Healthcare,Molina Healthcare,Local PPO,Molina Healthcare Inc,CA,Los Angeles,06037,2425
+H0007,101,Molina Healthcare,Molina Healthcare,HMO,Molina Healthcare Inc,CA,Los Angeles,06037,1415
+H0007,100,Molina Healthcare,Molina Healthcare,Local PPO,Molina Healthcare Inc,CA,San Diego,06073,745
+H0007,101,Molina Healthcare,Molina Healthcare,HMO-POS,Molina Healthcare Inc,CA,San Diego,06073,1515
+H0007,100,Molina Healthcare,Molina Healthcare,PPO,Molina Healthcare Inc,FL,Miami-Dade,12086,625
+H0007,101,Molina Healthcare,Molina Healthcare,HMO,Molina Healthcare Inc,FL,Miami-Dade,12086,2170
+H0007,100,Molina Healthcare,Molina Healthcare,HMO-POS,Molina Healthcare Inc,FL,Broward,12011,810
+H0007,100,Molina Healthcare,Molina Healthcare,Local PPO,Molina Healthcare Inc,FL,Palm Beach,12099,1435
+H0007,100,Molina Healthcare,Molina Healthcare,Local PPO,Molina Healthcare Inc,TX,Harris,48201,885
+H0007,100,Molina Healthcare,Molina Healthcare,HMO-POS,Molina Healthcare Inc,TX,Dallas,48113,590
+H0007,100,Molina Healthcare,Molina Healthcare,Local PPO,Molina Healthcare Inc,AZ,Maricopa,04013,1680
+H0007,101,Molina Healthcare,Molina Healthcare,Local PPO,Molina Healthcare Inc,AZ,Maricopa,04013,1060
+H0007,100,Molina Healthcare,Molina Healthcare,Local PPO,Molina Healthcare Inc,NV,Clark,32003,2335
+H0007,101,Molina Healthcare,Molina Healthcare,Local PPO,Molina Healthcare Inc,NV,Clark,32003,1340
+H0007,100,Molina Healthcare,Molina Healthcare,HMO-POS,Molina Healthcare Inc,NY,New York,36061,655
+H0007,101,Molina Healthcare,Molina Healthcare,HMO-POS,Molina Healthcare Inc,NY,New York,36061,1400
+H0007,102,Molina Healthcare,Molina Healthcare,PFFS,Molina Healthcare Inc,NY,New York,36061,2170
+H0007,100,Molina Healthcare,Molina Healthcare,PFFS,Molina Healthcare Inc,NY,Kings,36047,2210
+H0007,100,Molina Healthcare,Molina Healthcare,HMO-POS,Molina Healthcare Inc,IL,Cook,17031,1850
+H0007,101,Molina Healthcare,Molina Healthcare,PPO,Molina Healthcare Inc,IL,Cook,17031,950
+H0007,102,Molina Healthcare,Molina Healthcare,HMO-POS,Molina Healthcare Inc,IL,Cook,17031,445
+H0007,100,Molina Healthcare,Molina Healthcare,PFFS,Molina Healthcare Inc,MI,Wayne,26163,850
+H0007,101,Molina Healthcare,Molina Healthcare,PFFS,Molina Healthcare Inc,MI,Wayne,26163,1105
+H0007,102,Molina Healthcare,Molina Healthcare,PFFS,Molina Healthcare Inc,MI,Wayne,26163,1630
+H0007,100,Molina Healthcare,Molina Healthcare,PPO,Molina Healthcare Inc,OH,Cuyahoga,39035,635
+H0007,100,Molina Healthcare,Molina Healthcare,HMO-POS,Molina Healthcare Inc,PA,Philadelphia,42101,2025
+H0007,100,Molina Healthcare,Molina Healthcare,PPO,Molina Healthcare Inc,GA,Fulton,13121,410
+H0007,100,Molina Healthcare,Molina Healthcare,HMO-POS,Molina Healthcare Inc,NC,Mecklenburg,37119,1095
+H0007,101,Molina Healthcare,Molina Healthcare,Local PPO,Molina Healthcare Inc,NC,Mecklenburg,37119,1440
+H0007,100,Molina Healthcare,Molina Healthcare,HMO,Molina Healthcare Inc,TN,Shelby,47157,775
+H0007,101,Molina Healthcare,Molina Healthcare,HMO-POS,Molina Healthcare Inc,TN,Shelby,47157,1245
+H0007,100,Molina Healthcare,Molina Healthcare,HMO,Molina Healthcare Inc,MO,St. Louis,29189,2440
+H0007,101,Molina Healthcare,Molina Healthcare,Local PPO,Molina Healthcare Inc,MO,St. Louis,29189,1220
+H0007,102,Molina Healthcare,Molina Healthcare,HMO-POS,Molina Healthcare Inc,MO,St. Louis,29189,265
+H0007,100,Molina Healthcare,Molina Healthcare,PFFS,Molina Healthcare Inc,WA,King,53033,2175
+H0007,101,Molina Healthcare,Molina Healthcare,HMO-POS,Molina Healthcare Inc,WA,King,53033,2430
+H0008,100,Blue Cross Blue Shield,Blue Cross Blue Shield,Local PPO,BCBS Association,CA,Los Angeles,06037,1728
+H0008,101,Blue Cross Blue Shield,Blue Cross Blue Shield,Local PPO,BCBS Association,CA,Los Angeles,06037,1836
+H0008,100,Blue Cross Blue Shield,Blue Cross Blue Shield,PPO,BCBS Association,CA,San Diego,06073,1196
+H0008,101,Blue Cross Blue Shield,Blue Cross Blue Shield,PPO,BCBS Association,CA,San Diego,06073,756
+H0008,102,Blue Cross Blue Shield,Blue Cross Blue Shield,HMO-POS,BCBS Association,CA,San Diego,06073,1192
+H0008,100,Blue Cross Blue Shield,Blue Cross Blue Shield,HMO-POS,BCBS Association,FL,Miami-Dade,12086,888
+H0008,100,Blue Cross Blue Shield,Blue Cross Blue Shield,HMO-POS,BCBS Association,FL,Broward,12011,1680
+H0008,101,Blue Cross Blue Shield,Blue Cross Blue Shield,PPO,BCBS Association,FL,Broward,12011,1920
+H0008,102,Blue Cross Blue Shield,Blue Cross Blue Shield,HMO-POS,BCBS Association,FL,Broward,12011,460
+H0008,100,Blue Cross Blue Shield,Blue Cross Blue Shield,Local PPO,BCBS Association,FL,Palm Beach,12099,252
+H0008,101,Blue Cross Blue Shield,Blue Cross Blue Shield,HMO-POS,BCBS Association,FL,Palm Beach,12099,1412
+H0008,102,Blue Cross Blue Shield,Blue Cross Blue Shield,Local PPO,BCBS Association,FL,Palm Beach,12099,1556
+H0008,100,Blue Cross Blue Shield,Blue Cross Blue Shield,HMO,BCBS Association,TX,Harris,48201,1516
+H0008,100,Blue Cross Blue Shield,Blue Cross Blue Shield,PPO,BCBS Association,TX,Dallas,48113,1972
+H0008,101,Blue Cross Blue Shield,Blue Cross Blue Shield,HMO-POS,BCBS Association,TX,Dallas,48113,572
+H0008,100,Blue Cross Blue Shield,Blue Cross Blue Shield,PFFS,BCBS Association,AZ,Maricopa,04013,976
+H0008,100,Blue Cross Blue Shield,Blue Cross Blue Shield,PPO,BCBS Association,NV,Clark,32003,1128
+H0008,101,Blue Cross Blue Shield,Blue Cross Blue Shield,PFFS,BCBS Association,NV,Clark,32003,888
+H0008,100,Blue Cross Blue Shield,Blue Cross Blue Shield,PFFS,BCBS Association,NY,New York,36061,1740
+H0008,101,Blue Cross Blue Shield,Blue Cross Blue Shield,HMO-POS,BCBS Association,NY,New York,36061,716
+H0008,100,Blue Cross Blue Shield,Blue Cross Blue Shield,HMO-POS,BCBS Association,NY,Kings,36047,236
+H0008,100,Blue Cross Blue Shield,Blue Cross Blue Shield,Local PPO,BCBS Association,IL,Cook,17031,304
+H0008,101,Blue Cross Blue Shield,Blue Cross Blue Shield,PFFS,BCBS Association,IL,Cook,17031,656
+H0008,102,Blue Cross Blue Shield,Blue Cross Blue Shield,HMO,BCBS Association,IL,Cook,17031,1796
+H0008,100,Blue Cross Blue Shield,Blue Cross Blue Shield,HMO,BCBS Association,MI,Wayne,26163,1744
+H0008,101,Blue Cross Blue Shield,Blue Cross Blue Shield,HMO,BCBS Association,MI,Wayne,26163,704
+H0008,102,Blue Cross Blue Shield,Blue Cross Blue Shield,PPO,BCBS Association,MI,Wayne,26163,1916
+H0008,100,Blue Cross Blue Shield,Blue Cross Blue Shield,Local PPO,BCBS Association,OH,Cuyahoga,39035,512
+H0008,100,Blue Cross Blue Shield,Blue Cross Blue Shield,PPO,BCBS Association,PA,Philadelphia,42101,1168
+H0008,100,Blue Cross Blue Shield,Blue Cross Blue Shield,HMO,BCBS Association,GA,Fulton,13121,1352
+H0008,101,Blue Cross Blue Shield,Blue Cross Blue Shield,PPO,BCBS Association,GA,Fulton,13121,1152
+H0008,102,Blue Cross Blue Shield,Blue Cross Blue Shield,PFFS,BCBS Association,GA,Fulton,13121,1768
+H0008,100,Blue Cross Blue Shield,Blue Cross Blue Shield,PPO,BCBS Association,NC,Mecklenburg,37119,1440
+H0008,101,Blue Cross Blue Shield,Blue Cross Blue Shield,Local PPO,BCBS Association,NC,Mecklenburg,37119,1728
+H0008,100,Blue Cross Blue Shield,Blue Cross Blue Shield,HMO,BCBS Association,TN,Shelby,47157,1792
+H0008,101,Blue Cross Blue Shield,Blue Cross Blue Shield,PPO,BCBS Association,TN,Shelby,47157,836
+H0008,102,Blue Cross Blue Shield,Blue Cross Blue Shield,HMO,BCBS Association,TN,Shelby,47157,1384
+H0008,100,Blue Cross Blue Shield,Blue Cross Blue Shield,PFFS,BCBS Association,MO,St. Louis,29189,1376
+H0008,100,Blue Cross Blue Shield,Blue Cross Blue Shield,HMO-POS,BCBS Association,WA,King,53033,1012
+H0008,101,Blue Cross Blue Shield,Blue Cross Blue Shield,PPO,BCBS Association,WA,King,53033,352
+H0008,102,Blue Cross Blue Shield,Blue Cross Blue Shield,Local PPO,BCBS Association,WA,King,53033,1612
+H0009,100,Devoted Health,Devoted Health,PPO,Devoted Health Inc,CA,Los Angeles,06037,306
+H0009,101,Devoted Health,Devoted Health,PFFS,Devoted Health Inc,CA,Los Angeles,06037,1455
+H0009,102,Devoted Health,Devoted Health,Local PPO,Devoted Health Inc,CA,Los Angeles,06037,1386
+H0009,100,Devoted Health,Devoted Health,Local PPO,Devoted Health Inc,CA,San Diego,06073,1350
+H0009,100,Devoted Health,Devoted Health,PFFS,Devoted Health Inc,FL,Miami-Dade,12086,966
+H0009,100,Devoted Health,Devoted Health,PFFS,Devoted Health Inc,FL,Broward,12011,255
+H0009,101,Devoted Health,Devoted Health,Local PPO,Devoted Health Inc,FL,Broward,12011,1143
+H0009,100,Devoted Health,Devoted Health,HMO,Devoted Health Inc,FL,Palm Beach,12099,1452
+H0009,101,Devoted Health,Devoted Health,HMO-POS,Devoted Health Inc,FL,Palm Beach,12099,1413
+H0009,100,Devoted Health,Devoted Health,HMO,Devoted Health Inc,TX,Harris,48201,813
+H0009,101,Devoted Health,Devoted Health,PFFS,Devoted Health Inc,TX,Harris,48201,1125
+H0009,100,Devoted Health,Devoted Health,PPO,Devoted Health Inc,TX,Dallas,48113,816
+H0009,101,Devoted Health,Devoted Health,PPO,Devoted Health Inc,TX,Dallas,48113,1275
+H0009,100,Devoted Health,Devoted Health,PFFS,Devoted Health Inc,AZ,Maricopa,04013,1095
+H0009,101,Devoted Health,Devoted Health,Local PPO,Devoted Health Inc,AZ,Maricopa,04013,1338
+H0009,102,Devoted Health,Devoted Health,HMO-POS,Devoted Health Inc,AZ,Maricopa,04013,864
+H0009,100,Devoted Health,Devoted Health,Local PPO,Devoted Health Inc,NV,Clark,32003,561
+H0009,101,Devoted Health,Devoted Health,PFFS,Devoted Health Inc,NV,Clark,32003,1458
+H0009,100,Devoted Health,Devoted Health,HMO,Devoted Health Inc,NY,New York,36061,576
+H0009,100,Devoted Health,Devoted Health,PPO,Devoted Health Inc,NY,Kings,36047,1302
+H0009,101,Devoted Health,Devoted Health,HMO-POS,Devoted Health Inc,NY,Kings,36047,1023
+H0009,100,Devoted Health,Devoted Health,HMO-POS,Devoted Health Inc,IL,Cook,17031,666
+H0009,101,Devoted Health,Devoted Health,HMO,Devoted Health Inc,IL,Cook,17031,909
+H0009,102,Devoted Health,Devoted Health,PFFS,Devoted Health Inc,IL,Cook,17031,429
+H0009,100,Devoted Health,Devoted Health,PPO,Devoted Health Inc,MI,Wayne,26163,693
+H0009,101,Devoted Health,Devoted Health,PFFS,Devoted Health Inc,MI,Wayne,26163,672
+H0009,100,Devoted Health,Devoted Health,Local PPO,Devoted Health Inc,OH,Cuyahoga,39035,1227
+H0009,101,Devoted Health,Devoted Health,PFFS,Devoted Health Inc,OH,Cuyahoga,39035,1002
+H0009,100,Devoted Health,Devoted Health,Local PPO,Devoted Health Inc,PA,Philadelphia,42101,441
+H0009,100,Devoted Health,Devoted Health,PPO,Devoted Health Inc,GA,Fulton,13121,1254
+H0009,100,Devoted Health,Devoted Health,HMO-POS,Devoted Health Inc,NC,Mecklenburg,37119,1002
+H0009,101,Devoted Health,Devoted Health,PPO,Devoted Health Inc,NC,Mecklenburg,37119,1209
+H0009,100,Devoted Health,Devoted Health,HMO-POS,Devoted Health Inc,TN,Shelby,47157,837
+H0009,101,Devoted Health,Devoted Health,HMO,Devoted Health Inc,TN,Shelby,47157,291
+H0009,100,Devoted Health,Devoted Health,PPO,Devoted Health Inc,MO,St. Louis,29189,771
+H0009,101,Devoted Health,Devoted Health,PPO,Devoted Health Inc,MO,St. Louis,29189,618
+H0009,100,Devoted Health,Devoted Health,Local PPO,Devoted Health Inc,WA,King,53033,714
+H0009,101,Devoted Health,Devoted Health,HMO-POS,Devoted Health Inc,WA,King,53033,999
+H0009,102,Devoted Health,Devoted Health,Local PPO,Devoted Health Inc,WA,King,53033,678
+H0010,100,Alignment Healthcare,Alignment Healthcare,Local PPO,Alignment Healthcare Inc,CA,Los Angeles,06037,438
+H0010,101,Alignment Healthcare,Alignment Healthcare,PFFS,Alignment Healthcare Inc,CA,Los Angeles,06037,818
+H0010,100,Alignment Healthcare,Alignment Healthcare,PFFS,Alignment Healthcare Inc,CA,San Diego,06073,412
+H0010,101,Alignment Healthcare,Alignment Healthcare,PFFS,Alignment Healthcare Inc,CA,San Diego,06073,336
+H0010,100,Alignment Healthcare,Alignment Healthcare,PPO,Alignment Healthcare Inc,FL,Miami-Dade,12086,422
+H0010,100,Alignment Healthcare,Alignment Healthcare,Local PPO,Alignment Healthcare Inc,FL,Broward,12011,880
+H0010,100,Alignment Healthcare,Alignment Healthcare,PPO,Alignment Healthcare Inc,FL,Palm Beach,12099,296
+H0010,101,Alignment Healthcare,Alignment Healthcare,PPO,Alignment Healthcare Inc,FL,Palm Beach,12099,856
+H0010,102,Alignment Healthcare,Alignment Healthcare,HMO-POS,Alignment Healthcare Inc,FL,Palm Beach,12099,382
+H0010,100,Alignment Healthcare,Alignment Healthcare,Local PPO,Alignment Healthcare Inc,TX,Harris,48201,878
+H0010,101,Alignment Healthcare,Alignment Healthcare,Local PPO,Alignment Healthcare Inc,TX,Harris,48201,710
+H0010,102,Alignment Healthcare,Alignment Healthcare,PFFS,Alignment Healthcare Inc,TX,Harris,48201,202
+H0010,100,Alignment Healthcare,Alignment Healthcare,PFFS,Alignment Healthcare Inc,TX,Dallas,48113,332
+H0010,100,Alignment Healthcare,Alignment Healthcare,PPO,Alignment Healthcare Inc,AZ,Maricopa,04013,408
+H0010,101,Alignment Healthcare,Alignment Healthcare,HMO,Alignment Healthcare Inc,AZ,Maricopa,04013,824
+H0010,100,Alignment Healthcare,Alignment Healthcare,PPO,Alignment Healthcare Inc,NV,Clark,32003,380
+H0010,101,Alignment Healthcare,Alignment Healthcare,HMO,Alignment Healthcare Inc,NV,Clark,32003,154
+H0010,102,Alignment Healthcare,Alignment Healthcare,Local PPO,Alignment Healthcare Inc,NV,Clark,32003,398
+H0010,100,Alignment Healthcare,Alignment Healthcare,PPO,Alignment Healthcare Inc,NY,New York,36061,752
+H0010,101,Alignment Healthcare,Alignment Healthcare,HMO-POS,Alignment Healthcare Inc,NY,New York,36061,204
+H0010,102,Alignment Healthcare,Alignment Healthcare,HMO,Alignment Healthcare Inc,NY,New York,36061,686
+H0010,100,Alignment Healthcare,Alignment Healthcare,HMO-POS,Alignment Healthcare Inc,NY,Kings,36047,590
+H0010,101,Alignment Healthcare,Alignment Healthcare,HMO-POS,Alignment Healthcare Inc,NY,Kings,36047,448
+H0010,100,Alignment Healthcare,Alignment Healthcare,HMO,Alignment Healthcare Inc,IL,Cook,17031,358
+H0010,100,Alignment Healthcare,Alignment Healthcare,HMO,Alignment Healthcare Inc,MI,Wayne,26163,940
+H0010,101,Alignment Healthcare,Alignment Healthcare,HMO,Alignment Healthcare Inc,MI,Wayne,26163,510
+H0010,100,Alignment Healthcare,Alignment Healthcare,HMO,Alignment Healthcare Inc,OH,Cuyahoga,39035,690
+H0010,101,Alignment Healthcare,Alignment Healthcare,HMO,Alignment Healthcare Inc,OH,Cuyahoga,39035,254
+H0010,100,Alignment Healthcare,Alignment Healthcare,Local PPO,Alignment Healthcare Inc,PA,Philadelphia,42101,410
+H0010,100,Alignment Healthcare,Alignment Healthcare,PPO,Alignment Healthcare Inc,GA,Fulton,13121,220
+H0010,100,Alignment Healthcare,Alignment Healthcare,HMO-POS,Alignment Healthcare Inc,NC,Mecklenburg,37119,720
+H0010,101,Alignment Healthcare,Alignment Healthcare,Local PPO,Alignment Healthcare Inc,NC,Mecklenburg,37119,908
+H0010,102,Alignment Healthcare,Alignment Healthcare,Local PPO,Alignment Healthcare Inc,NC,Mecklenburg,37119,330
+H0010,100,Alignment Healthcare,Alignment Healthcare,HMO-POS,Alignment Healthcare Inc,TN,Shelby,47157,560
+H0010,101,Alignment Healthcare,Alignment Healthcare,HMO-POS,Alignment Healthcare Inc,TN,Shelby,47157,404
+H0010,102,Alignment Healthcare,Alignment Healthcare,Local PPO,Alignment Healthcare Inc,TN,Shelby,47157,538
+H0010,100,Alignment Healthcare,Alignment Healthcare,Local PPO,Alignment Healthcare Inc,MO,St. Louis,29189,734
+H0010,101,Alignment Healthcare,Alignment Healthcare,HMO,Alignment Healthcare Inc,MO,St. Louis,29189,724
+H0010,100,Alignment Healthcare,Alignment Healthcare,HMO,Alignment Healthcare Inc,WA,King,53033,880
+H0010,101,Alignment Healthcare,Alignment Healthcare,PPO,Alignment Healthcare Inc,WA,King,53033,740
+H0010,102,Alignment Healthcare,Alignment Healthcare,PPO,Alignment Healthcare Inc,WA,King,53033,370

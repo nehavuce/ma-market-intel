@@ -1,0 +1,13 @@
+# CMS downloads (large) — but keep test data
+data/raw/*.zip
+data/raw/*.parquet
+data/raw/2*.csv
+data/raw/_upload_*.csv
+data/internal/
+output/
+*.pyc
+__pycache__/
+.env
+.venv/
+.streamlit/secrets.toml
+config/_runtime_thresholds.json
